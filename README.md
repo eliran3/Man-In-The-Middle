@@ -11,8 +11,7 @@ Skills: Python, C#, C/C++, BASH, HTML, CSS, Networking
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eliranCoding)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/elirannissani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/elirannissani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/eliran_nissani/)  
-
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ________________________________________________________________________
 
 ***WARNING THIS PROGRAM CAN ACTUALLY HARM YOUR NETWORK/NETWORK DEVICES, CONSIDER WHAT YOU ARE DOING CARFULLY!***
 
