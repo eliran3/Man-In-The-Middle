@@ -36,7 +36,7 @@ pip3 install colorama
 ```
 Then install the package
 ```
-git clone https://github.com/eliranCoding/MiTM.git
+git clone https://github.com/eliran3/MiTM.git
 ```
 Enter the directory "MiTM/src" and run the following
 ```
