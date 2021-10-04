@@ -1,5 +1,4 @@
 from netifaces import gateways, AF_INET
-from sys import argv
 from colorama import Fore
 
 def get_gateway():
