@@ -4,7 +4,6 @@ import utils
 
 from activation import perform_activation
 from portscanner import perform_port_scan
-from colorama import Fore
 
 def main():
     # Some information..
