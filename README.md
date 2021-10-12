@@ -34,6 +34,4 @@ sudo ./MTM.py
 
 IMPORTANT: ``` ctrl+c ``` to exit the program.
 
-***CURRENTLY WORKING ON cryptography.py***
-
 Licensed under the [MIT License](LICENSE).
