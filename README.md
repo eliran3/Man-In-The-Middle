@@ -1,7 +1,7 @@
 ***WARNING THIS PROGRAM CAN ACTUALLY HARM YOUR NETWORK/NETWORK DEVICES, CONSIDER WHAT YOU ARE DOING CARFULLY!***
 
 # Man-In-The-Middle
-Program-Representation of the MiTM attack.
+Program to perform MiTM attack on gateway.
 
 # Requirements
 A Linux device to run the program.
